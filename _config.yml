@@ -1,4 +1,4 @@
-title: Liam Burns
+title: Zak Parkes
 subtitle: A Portfolio Page For My Gamedev Work
 description: >- # this means to ignore newlines until "baseurl:"
   Game Designer
@@ -17,9 +17,9 @@ urls:
 # Edit Author details (For multi authors check _data/authors.yml)
 
 author_logo: profile.png
-author: Liam Burns
+author: Zak Parkes
 author_bio: I am a Computer Games Design graduate who studied at the University of Staffordshire. Mechanics and Technical Design are my favourite aspects of game design but I am able to do any general design work. I enjoy working in a team to refine and condense ideas to help make a better product.
-author_email: "liammiburns@gmail.com"
+author_email: "zlpworkbase@gmail.com"
 author_location: Stoke-On-Trent, UK
 author_website_url: "liammiburns.github.io"
 typewrite-text: A passionate gamedev engineer who loves to code #Isnt real
