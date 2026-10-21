@@ -1,7 +1,7 @@
 ---
 title: Galactic Beats
 layout: post
-summary: An alien-themed point and shoot rhythm game using a SINDEN light gun with an 
+summary: An alien-themed point and shoot rhythm game using a SINDEN light gun based on on-rail shooters and modern point and click rhythm games.
 author: Lucius
 date: 2026-10-21
 category: portfolio
@@ -23,6 +23,7 @@ Gameplay Reel -
 
 <iframe width="1840" height="1035" src="https://www.youtube.com/embed/MY5fx6tJ8_o" title="Galactic Beats Gameplay video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-This prjoect was my second Unity module at university, so I wanted to establish my understanding of the engine by making a technically challenging project with difficult systems programming. 
+This project was my second Unity module at university, so I wanted to establish my understanding of the engine by making a technically challenging project with difficult systems programming.
+Making this project helped me understand my limits in the Unity Engine and so scoping future Unity projects became significantly more manageable.
 
 During the project I was pushed to grow my problem solving and debugging skill as the concepts I was exploring had very little documentation.
