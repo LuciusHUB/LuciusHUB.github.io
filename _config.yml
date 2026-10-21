@@ -52,11 +52,11 @@ author_project_details:
                 project_description: A 10 day game jam project made over the summer after my first university year. Developed in Godot Engine using GDScript to demonstrate my abilities as a designer at the time and to develop new skills under time pressure.
                 project_url: https://LuciusHUB.github.io/blog/Press-Any-Key-To-Start/
                 visibility: true
-              - project_thumbnail: cursor.png
-                project_title: Cursor.zip
-                project_description: A verticle slice of a 3d speedrunning platformer in a collaborative module where I was the lead deigner
-                project_url: https://liammib.github.io/blog/cursorzip/#/
-                visibility: false
+              - project_thumbnail: galactic.png
+                project_title: Galactic Beats
+                project_description: An alien-themed point and shoot rhythm game using a SINDEN light gun based on on-rail shooters and modern point and click rhythm games.
+                project_url: https://LuciusHUB.github.io/blog/galactic-beats/#/
+                visibility: true
               - project_thumbnail: controllerclash.png
                 project_title: Controller Clash
                 project_description: A platform fighter prototype made in Unity utilising 4 different controllers
