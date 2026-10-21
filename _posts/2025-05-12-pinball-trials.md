@@ -33,6 +33,6 @@ I learned to use several Project Management techniques in this project including
 
 Below is the Game Design Document I made alongside the artefact of this project.
 
-<<iframe src=" <iframe src=" &action=embedview&wdAr=1.7777777777777777" width="350px" height="221px" frameborder="0"> &action=embedview&wdAr=1.7777777777777777" width="350px" height="221px" frameborder="0">
+<iframe src=" <iframe src=" &action=embedview&wdAr=1.7777777777777777" width="350px" height="221px" frameborder="0"> &action=embedview&wdAr=1.7777777777777777" width="350px" height="221px" frameborder="0">
 ```
 
