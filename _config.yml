@@ -48,30 +48,30 @@ author_project_details:
                 project_url: https://luciushub.github.io/blog/Pinball-Trials/#/
                 visibility: true
               - project_thumbnail: pushyplushy.png
-                project_title: Pushy Plushy
-                project_description: A verticle slice of a 4 player party game made in a collaborative module where I was a junior designer
+                project_title: Press Any Key To Start!
+                project_description: A 10 day game jam project made over the summer after my first university year. Developed in Godot Engine using GDScript to demonstrate my abilities as a designer at the time and to develop new skills under time pressure.
                 project_url: https://liammib.github.io/blog/pushy-plushy/#/
                 visibility: true
               - project_thumbnail: cursor.png
                 project_title: Cursor.zip
                 project_description: A verticle slice of a 3d speedrunning platformer in a collaborative module where I was the lead deigner
                 project_url: https://liammib.github.io/blog/cursorzip/#/
-                visibility: true
+                visibility: false
               - project_thumbnail: controllerclash.png
                 project_title: Controller Clash
                 project_description: A platform fighter prototype made in Unity utilising 4 different controllers
                 project_url: https://liammib.github.io/blog/controller-clash/#/
-                visibility: true
+                visibility: false
               - project_thumbnail: tundramill.png
                 project_title: KOTH_TundraMill
                 project_description: A Team Foretress 2 multiplayer map, planned out and iterated on with testing and made in the Hammer engine
                 project_url: https://liammib.github.io/blog/tundramill/#/
-                visibility: true
+                visibility: false
               - project_thumbnail: castlewalls.png
                 project_title: Castle Walls
                 project_description: A Celeste map made in an experimental level design module focusing on mechanic led design
                 project_url: https://liammib.github.io/blog/castle-walls/#/
-                visibility: true
+                visibility: false
 
 # social links
 #twitter_username: floretdev
