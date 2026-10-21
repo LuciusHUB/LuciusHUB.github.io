@@ -7,7 +7,7 @@ date: 2026-10-21
 category: portfolio
 thumbnail: /assets/img/posts/code.jpg
 keywords: template, portfolio, gamedev
-permalink: /blog/Pinball-Trials/
+permalink: "/blog/Pinball-Trials/"
 usemathjax: true
 ---
 
