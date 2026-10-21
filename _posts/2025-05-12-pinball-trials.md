@@ -13,7 +13,7 @@ usemathjax: true
 
 > **Game Engine/Language**: Unreal Engine / Blueprints
 
-> **Role**: Solo Dev
+> **Role**: Solo Dev, all pillars of design
 
 > **Duration of Work**: 8 Weeks
 

@@ -13,7 +13,7 @@ usemathjax: true
 
 > **Game Engine/Language**: Godot / GDScript
 
-> **Role**: Solo Dev
+> **Role**: Solo Dev, Mechanics and Level Design
 
 > **Duration of Work**: 10 days
 
