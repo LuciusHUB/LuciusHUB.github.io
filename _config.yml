@@ -18,10 +18,10 @@ urls:
 
 author_logo: profile.png
 author: Zak Parkes
-author_bio: I am a Gay Computer Games Design graduate who studied at the University of Staffordshire. Mechanics and Technical Design are my favourite aspects of game design but I am able to do any general design work. I enjoy working in a team to refine and condense ideas to help make a better product.
+author_bio: I am a Game Designer and Programmer living in the UK, studying Computer Games Design at the University of Staffordshire. I've been passionate about designing mechanics for games since secondary school but never considered Game Development as an option due to fears of learning how to code, since then I've conquered my fear of failure and created many projects to pursue my passion. I'm also particularly interested in level design, systems design and technical design. 
 author_email: "zlpworkbase@gmail.com"
 author_location: Stoke-On-Trent, UK
-author_website_url: "liammiburns.github.io"
+author_website_url: "LuciusHUB.github.io"
 typewrite-text: A passionate gamedev engineer who loves to code #Isnt real
 hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
@@ -43,9 +43,9 @@ hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg.
 # Projects
 author_project_details:
               - project_thumbnail: coalesce.png
-                project_title: Coalesce
-                project_description: An asymmetrical co-op arcade game which got ported onto a University of Staffordshire Arcade machine
-                project_url: https://liammib.github.io/blog/coalesce/#/
+                project_title: Pinball Trials
+                project_description: A mechianics-led single-player racing game prototype made in Unreal Engine to develop my skills in Mechanics Design and Project Management.
+                project_url: https://luciushub.github.io/blog/Pinball-Trials/#/
                 visibility: true
               - project_thumbnail: pushyplushy.png
                 project_title: Pushy Plushy
@@ -75,10 +75,10 @@ author_project_details:
 
 # social links
 #twitter_username: floretdev
-github_username:  Liammib
+github_username:  LuciusHUB
 #instagram_username: floretdev
 # facebook_username: johndoe
-linkedin_username: liam-burns-427a78334/
+linkedin_username: zak-parkes-83715b230
 # behance_username: johndoe
 # medium_username: johndoe
 # telegram_username: johndoe
@@ -92,10 +92,10 @@ linkedin_username: liam-burns-427a78334/
 
 # contact form - (choose formspress or getform)
 # getform_endpoint: 83b703c3-9e47-4df4-ac55-e24d7eb02abc
-formspree_email: liammiburns@gmail.com
+formspree_email: zlpworkbase@gmail.com
 
 # releases - widget can be (sidebar, modal or embed)
-olvy_organization: Liammb
+olvy_organization: LuciusHUB
 olvy_widget_type: sidebar
 
 # syntax highlighter
