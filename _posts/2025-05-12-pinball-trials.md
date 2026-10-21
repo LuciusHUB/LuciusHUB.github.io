@@ -33,7 +33,6 @@ I learned to use several Project Management techniques in this project including
 
 Below is the Game Design Document I made alongside the artefact of this project.
 
-<iframe src="https://staffsuniversity-my.sharepoint.com/personal/p013157m_student_staffs_ac_uk/_layouts/15/Doc.aspx?sourcedoc={67f2265b-5085-455d-aa94-af13d8f863dc}&amp;action=embedview&amp;wdAr=1.7777777777777777" width="476px" height="288px" frameborder="0" title="PowerPoint Viewer">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
-
+<<iframe src=" <iframe src=" &action=embedview&wdAr=1.7777777777777777" width="350px" height="221px" frameborder="0"> &action=embedview&wdAr=1.7777777777777777" width="350px" height="221px" frameborder="0">
 ```
 
