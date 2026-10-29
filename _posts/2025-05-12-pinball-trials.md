@@ -31,8 +31,6 @@ Creating a variety of multiplicative mechanics that worked well alongside the 'S
 
 I learned to use several Project Management techniques in this project including; Moscow, Kanban Frameworks and my preferred method, Agile Methodologies. Recently I revisited agile methodologies to optimise my preferred method of study and have been seeing greaat success with 'Pomodoro Timers'.
 
-Below is the Game Design Document I made alongside the artefact of this project.
 
-<iframe src=" <iframe src=" &action=embedview&wdAr=1.7777777777777777" width="350px" height="221px" frameborder="0"> &action=embedview&wdAr=1.7777777777777777" width="350px" height="221px" frameborder="0">
 ```
 
